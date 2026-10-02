@@ -1,0 +1,2 @@
+# premium-harp-case-001-harpsichord-case-construction
+Building a harpsichord case without a structured workflow is like tuning without a pitch reference—you'll waste materials, time, and risk catastrophic structural failure. The Harpsichord Case Construction Template eliminates guesswork by organizing every phase of traditional case-building into a single, repeatable Notion system.  This template tran
